@@ -7,3 +7,5 @@ KoGPT2 chatbot에서 생성된 답변에 감정을 분류한다면 결과가 어
 3. KoBERT_EC : 통합된 데이터를 Train data set 으로 하여 KoBERT Emotion Classification 훈련 해당 결과를 이용하여 KoGPT2-Chatbot의 감정 분류 진행
 
 Colab을 이용하여 훈련 및 성능 평가 진행
+
+repo : https://github.com/afnf33/emoTale
